@@ -1,0 +1,10 @@
+Male Aaron 21 195 65
+Male Brian 32 210 67
+Male Taylor 44 225 70
+Male Chris 18 212 64
+Male Eric 27 280 68
+Female Ashley 21 AA
+Female Tessa 19 BA
+Female Lilly 22 MS
+Female Brenda 25 AA
+Female Summer 23 Ph.D. 

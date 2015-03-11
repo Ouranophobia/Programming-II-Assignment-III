@@ -1,0 +1,5 @@
+Name: Chris Age: 18 Weight: 212 Height: 64 Intelligence Level: 3
+Name: Aaron Age: 21 Weight: 195 Height: 65 Intelligence Level: 3
+Name: Brian Age: 32 Weight: 210 Height: 67 Intelligence Level: 3
+Name: Eric Age: 27 Weight: 280 Height: 68 Intelligence Level: 3
+Name: Taylor Age: 44 Weight: 225 Height: 70 Intelligence Level: 5
